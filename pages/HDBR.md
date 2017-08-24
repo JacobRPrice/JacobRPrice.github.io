@@ -1,6 +1,6 @@
 ---
 layout: page
-title: High Density Bioreactor (HDBR)
+title: HDBR
 exclude: true
 ---
 
