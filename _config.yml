@@ -7,3 +7,12 @@ github_username: JacobRPrice
 
 markdown: kramdown
 theme: minima
+
+footer-links:
+  twitter: Jake_in_the_Lab
+
+
+# More fields are available. refer to:
+# https://github.com/barryclark/jekyll-now/blob/master/_config.yml
+
+
