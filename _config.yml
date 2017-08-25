@@ -1,15 +1,24 @@
 title: J. R. Price
-#description: Feel free to bookmark this page to keep an eye on my project updates, publications, and (perhaps most importantly) my homebrewing. 
 author: Jacob R Price
 email: jacob.r.price@drexel.edu
 twitter_username: Jake_in_the_Lab
 github_username: JacobRPrice
+description: #> # this means to ignore newlines until "baseurl:"
+  environmental engineering
+  micro- and molecular biology
+  college football
+  Beer
+  not necessarily in that order
 
 
 # designate pages (in order) to show in header
 header_pages:
+ - 1-research.md
+ - 2-publications.md
+ - 3-teaching.md
+ - 4-R.md
+ - 5-brewing.md
  - 9-about.md
-
 
 # build settings
 markdown: kramdown
