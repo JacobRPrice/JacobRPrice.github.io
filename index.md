@@ -1,5 +1,8 @@
-TEST
-test2
+TEST  
+
+test2 - head.html works
+
+Test header.html
 
 x---
 xlayout: page
