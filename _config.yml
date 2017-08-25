@@ -16,6 +16,9 @@ header_pages:
  - 5-brewing.md
  - 9-about.md
 
+plugins:
+  - jekyll-seo-tag
+
 # build settings
 markdown: kramdown
 theme: minima
