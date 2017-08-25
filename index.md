@@ -2,7 +2,9 @@ TEST
 
 test2 - head.html works
 
-Test header.html
+Test header.html works
+
+footer.html? 
 
 x---
 xlayout: page
