@@ -1,4 +1,5 @@
 TEST
+test2
 
 x---
 xlayout: page
