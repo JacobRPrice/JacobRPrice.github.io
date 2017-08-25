@@ -1,23 +1,8 @@
-TEST  
-
-test2 - head.html works
-
-Test header.html works
-
-footer.html works
-
-fdefault, home, page, post
-
-testing commenting:
-
 [//]: # (comment goes here)
+[//]: # (uncomment out the following 4 lines to remove "posts" from front page.)
+[//]: # (---)
+[//]: # (layout: page)
+[//]: # (Title: Home)
+[//]: # (---)
 
-# does banner work? 
-
-
-x---
-xlayout: page
-xTitle: Home
-x---
-
-Please excuse the lack of content. This page is under construction. 
+# Please excuse the lack of content. This page is under construction. 
