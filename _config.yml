@@ -24,6 +24,7 @@ plugins:
 # build settings
 markdown: kramdown
 theme: minima
+highlighter: rouge
 
 # More fields are available. refer to:
 # https://github.com/jekyll/minima/blob/master/_config.yml
