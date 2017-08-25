@@ -4,7 +4,9 @@ test2 - head.html works
 
 Test header.html works
 
-footer.html? 
+footer.html works
+
+fdefault, home, page, post
 
 x---
 xlayout: page
