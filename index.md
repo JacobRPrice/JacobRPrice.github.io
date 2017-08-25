@@ -12,6 +12,9 @@ testing commenting:
 
 [//]: # (comment goes here)
 
+# does banner work? 
+
+
 x---
 xlayout: page
 xTitle: Home
