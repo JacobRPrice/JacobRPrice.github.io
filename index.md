@@ -8,6 +8,10 @@ footer.html works
 
 fdefault, home, page, post
 
+testing commenting:
+
+[//]: # (comment goes here)
+
 x---
 xlayout: page
 xTitle: Home
