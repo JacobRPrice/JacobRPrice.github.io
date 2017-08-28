@@ -36,4 +36,4 @@ How do you get your altered data back into your phyloseq object (or create a new
 otu_table(PhyloseqObject) <- otu_table(veganOTUobject, taxa_are_rows=TRUE)  
 # move sample data from vegan to phyloseq
 sample_data(PhyloseqObject) <- as.data.frame(veganSampleDataObject)
-}
+{% endhighlight %}  
