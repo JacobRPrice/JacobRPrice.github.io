@@ -9,5 +9,8 @@ title: About & CV
 I'm a PhD candidate studying under [Chris Sales](http://microbes.cae.drexel.edu/) at Drexel University. 
 
 
+### Curriculum Vitae
+![Download my CV here.](/assets/2017-08-02_Jacob_R_Price_CV.pdf)
+
 ### e-mail
 Jacob.R.Price@drexel.edu
