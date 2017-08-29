@@ -4,8 +4,8 @@ title: Publications
 ---
 
 ## Peer-reviewed Publications
-1. **Price,J.R.**, Keshani Langroodi, S., Lan, Y., Becker, J.M., Shieh, W.K., Rosen, G.L., and C.M. Sales. 2016. Untangling the microbial ecosystem and kinetics in a nitrogen removing photosynthetic high density bioreactor. Environ. Sci.: Water Res. Technol. doi: 10.1039/C6EW00078A. PDF Link/SI Link/Rich HTML/Journal Link
-2. **Price, J.R.**, Shieh, W.K., Sales, C.M. 2015. A novel bioreactor for high density cultivation of diverse microbial communities. J. Vis. Exp. (106), e53443, doi:10.3791/53443. PDF Link / Materials Link / Journal Link
+1. **Price,J.R.**, Keshani Langroodi, S., Lan, Y., Becker, J.M., Shieh, W.K., Rosen, G.L., and C.M. Sales. 2016. Untangling the microbial ecosystem and kinetics in a nitrogen removing photosynthetic high density bioreactor. Environ. Sci.: Water Res. Technol. doi: 10.1039/C6EW00078A. [PDF Link]({{ site.url }}/assets/Price2016_Manu.pdf) / [SI Link]({{ site.url }}/assets/Price2016_Supp.pdf) / [Journal Link](http://pubs.rsc.org/en/content/articlepdf/2016/ew/c6ew00078a)
+2. **Price, J.R.**, Shieh, W.K., Sales, C.M. 2015. A novel bioreactor for high density cultivation of diverse microbial communities. J. Vis. Exp. (106), e53443, doi:10.3791/53443. [PDF Link]({{ site.url }}/assets/jove-protocol-53443-a-novel-bioreactor-for-high-density-cultivation-diverse-microbial.pdf) / [Materials Link]({{ site.url }}/assets/jove-materials-53443-a-novel-bioreactor-for-high-density-cultivation-diverse-microbial.pdf) / [Journal Link](http://www.jove.com/video/53443/a-novel-bioreactor-for-high-density-cultivation-diverse-microbial)
 
 ## Oral Presentations
 2.	Sales, C.M., **Price, J.R.**, Langroodi, S.K., Tools from molecular ecology provide an augmentative approach to understanding engineered and natural systems, Philadelphia Symposium on Cross-Disciplinary Analytical Approaches, Philadelphia, Pennsylvania, June 10, 2017. 
