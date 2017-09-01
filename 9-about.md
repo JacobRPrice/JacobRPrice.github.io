@@ -2,7 +2,9 @@
 layout: page
 title: About & CV
 ---
+![Jake](/assets/IMG_1656_cropped_resized.JPG)
 ![Jake](/assets/IMG_1656_cropped_resized.JPG){:height="50%" width="50%"}
+![Jake](/assets/IMG_1656_cropped_resized.JPG){:height="10%" width="10%"}
 
 ### About me
 I'm a PhD candidate studying under [Chris Sales](http://microbes.cae.drexel.edu/) at Drexel University.  
