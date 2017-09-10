@@ -15,7 +15,7 @@ header_pages:
  - 2-publications.md
  - 3-teaching.md
 # - 4-R.md
-# - 5-brewing.md
+ - 5-brewing.md
  - 9-about.md
 
 plugins:
