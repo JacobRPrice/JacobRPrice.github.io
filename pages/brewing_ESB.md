@@ -14,7 +14,7 @@ ___
 
 ### Ingredients  
 | Class | Amt | Ingredient |
-| :--- | :--- | :--- |
+| -----------: | :----------- | :----------- |
 | fermentables | 3.0 lbs | German Munich malt (crushed) |
 | fermentables | 2.5 lbs | English pale malt (crushed)  |
 | fermentables | 0.5 lbs | Breiss Carapils malt (crushed) |
