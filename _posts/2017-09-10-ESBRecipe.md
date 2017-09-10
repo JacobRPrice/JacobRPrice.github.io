@@ -3,7 +3,7 @@ layout: post
 title: ESB Homebrewing Recipe
 ---
 
-I've posted an Extra Special Bitter (ESB) recipe in the [Homebrewing](/../../../5-brewing.md) section. You can visit the page directly via the link [here](/../../../pages/brewing_ESB.md). 
+I've posted an Extra Special Bitter (ESB) recipe in the [Homebrewing](https://jacobrprice.github.io/5-brewing.html) section. You can visit the page directly via the link [here](https://jacobrprice.github.io/pages/brewing_ESB.html). 
 
 To steal Charlie Papazian's line: "Relax and have a homebrew!"
 
