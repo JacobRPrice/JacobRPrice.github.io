@@ -23,6 +23,8 @@ ___
 | hops | 1.0 oz | German Perle hops |
 | yeast | 1 packet | Safale S-04 |
 
+___
+
 ### Steeping Grains  
 * heat 1.5 gal water to 165 F  
 * add grains, steep for 1 hr, maintaining temp at 155 F  

@@ -3,6 +3,6 @@ layout: page
 title: Homebrewing
 ---
 
-## Recipies
-[St Louis Special](/pages/brewing_ESB.md)
+## Recipes
+[St Louis Special (Extra Special Bitter)](/pages/brewing_ESB.md)
 
