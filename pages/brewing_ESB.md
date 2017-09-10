@@ -2,8 +2,6 @@
 layout: page
 title: St. Louis Special (ESB)
 ---
-
-## St Louis Special 
 **An Extra Special Bitter for any season**   
 
 A friend of mine (B.) shared his recipe with me 3 or 4 years ago and, despite my best efforts, I haven't managed to ruin it yet! This is the beer that I keep coming back to; its easy to brew, easy to ferment, and easy to enjoy. I have made some (minor) modifications to the recipe to account for the differences in equipment available to B. (all-grain) and myself (partial mash). Despite these changes, I believe it to be true in spirit. 
@@ -22,7 +20,7 @@ ___
 | hops | 1.0 oz | US Fuggle hops | 
 | hops | 1.0 oz | UK Northdown hops | 
 | hops | 1.0 oz | German Perle hops | 
-| yeast | 1 packet | Safale S-04 | 
+| yeast | 1 packet | Safale S-04 |
 
 ### Steeping Grains  
 * heat 1.5 gal water to 165 F  
