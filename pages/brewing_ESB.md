@@ -11,6 +11,7 @@ I've named this recipe the St Louis Special as a play on the beer style and in h
 ___   
 
 ### Ingredients  
+
 | Class | Amt | Ingredient |
 |-------|--------|---------|
 | fermentables | 3.0 lbs | German Munich malt (crushed) |
