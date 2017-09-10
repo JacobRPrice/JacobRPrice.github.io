@@ -15,12 +15,12 @@ ___
 ### Ingredients  
 | **Class** | **Amt** | **Ingredient** |
 | fermentables | 3.0 lbs | German Munich malt (crushed) |
-|  | 2.5 lbs | English pale malt (crushed)  |
-|  | 0.5 lbs | Breiss Carapils malt (crushed) |
-|  | 3.15 lbs | Malliar Malts Gold (LME) |
+| fermentables | 2.5 lbs | English pale malt (crushed)  |
+| fermentables | 0.5 lbs | Breiss Carapils malt (crushed) |
+| fermentables | 3.15 lbs | Malliar Malts Gold (LME) |
 | hops | 1.0 oz | US Fuggle hops |
-|  | 1.0 oz | UK Northdown hops |
-|  | 1.0 oz | German Perle hops |
+| hops | 1.0 oz | UK Northdown hops |
+| hops | 1.0 oz | German Perle hops |
 | yeast | 1 packet | Safale S-04 |
 
 ### Steeping Grains  
