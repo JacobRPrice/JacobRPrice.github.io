@@ -14,6 +14,7 @@ ___
 
 ### Ingredients  
 | Class | Amt | Ingredient | 
+|-------|--------|---------|
 | fermentables | 3.0 lbs | German Munich malt (crushed) | 
 | fermentables | 2.5 lbs | English pale malt (crushed)  | 
 | fermentables | 0.5 lbs | Breiss Carapils malt (crushed) | 
@@ -44,7 +45,7 @@ ___
 ### Coldbreak   
 * remove from heat, shut down burner  
 * add: Fuggle hops, 1 tsp Irish Moss (optional)  
-* move pot to ice bath (sink), add ice, water to bath. Do not add ice directly to the wort **Do you want contaminated beer, because that's how you get contaminated beer!**   
+* move pot to ice bath (sink), add ice, water to bath. Do not add ice directly to the wort. **Do you want contaminated beer, because that's how you get contaminated beer!**   
 * stir pot  to encourage sedimentation towards middle of pot   
 * rapidly chill to room temp.   
 
