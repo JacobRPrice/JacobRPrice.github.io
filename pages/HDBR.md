@@ -1,7 +1,6 @@
 ---
 layout: page
 title: High Density Bioreactor (HDBR)
-exclude: true
 ---
 
 ![HDBR](/assets/HDBR/HDBR_Schematic.png)  
