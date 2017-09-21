@@ -2,7 +2,7 @@
 layout: page
 title: Exxon Valdez Oil Spill
 ---
-
+**Please excuse the absence of content. This page is under construction.**
 
 
 Study sites included:  
@@ -11,7 +11,9 @@ Study sites included:
 * Perry Island &  
 * Smith Island  
 
-*Catching mini icebergs in Blackstone Bay* ![mini iceberg](/assets/EVOS/PICT1134.JPG){:height="20%" width="20%"}  
+*Catching mini icebergs in Blackstone Bay* ![mini iceberg](/assets/EVOS/PICT1134.JPG){:height="25%" width="25%"}  
 
-![at the bow](/assets/EVOS/PICT0878.JPG){:height="20%" width="20%"} *Keeping some samples company on the way back to Whittier*  
+![at the bow](/assets/EVOS/PICT0878.JPG){:height="25%" width="25%"} *Keeping some samples company on the way back to Whittier*  
 
+___  
+[back to main research page]({{ site.url }}/1-research.md)  
