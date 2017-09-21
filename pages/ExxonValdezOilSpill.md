@@ -16,4 +16,4 @@ Study sites included:
 ![at the bow](/assets/EVOS/PICT0878.JPG){:height="25%" width="25%"} *Keeping some samples company on the way back to Whittier*  
 
 ___  
-[back to main research page]({{ site.url }}/1-research.md)  
+[back to main research page](../1-research.md)  

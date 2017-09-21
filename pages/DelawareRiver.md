@@ -16,4 +16,4 @@ The goal of this project was to characterize nutrient content and cycling within
 ![refinery and trash](/assets/DelawareRiver/OilRefineryandTrash.jpg){:height="25%" width="25%"} *Lots of trash at the head of the island.* 
 
 ___  
-[back to main research page]({{ site.url }}/1-research.md)  
+[back to main research page](../1-research.md)  
