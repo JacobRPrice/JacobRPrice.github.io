@@ -2,7 +2,7 @@
 layout: page
 title: About & CV
 ---
-![Jake](/assets/IMG_1656_cropped_resized.JPG)
+![Jake](/assets/about/IMG_1656_cropped_resized.JPG)
 
 ### About me
 I'm a PhD candidate studying under [Chris Sales](http://microbes.cae.drexel.edu/) at Drexel University.  
@@ -18,7 +18,7 @@ I have come to firmly believe that unraveling the biological processes within mi
 I invite you to review my [Research page](1-Research.md) for descriptions of current and past projects I've been involved in. 
 
 ### Curriculum Vitae
-[Download my CV here.]({{ site.url }}/assets/2017-09-19_Jacob_R_Price_CV_website.pdf)
+[Download my CV here.]({{ site.url }}/assets/about/2017-09-23_Jacob_R_Price_CV_website.pdf)
 
 ### e-mail
 Jacob.R.Price@drexel.edu
