@@ -9,7 +9,7 @@ Transects were installed at three locations along the Gulf coast:
 
 ___  
 
-###Grand Isle, LA  
+### Grand Isle, LA  
 Grand Isle was the closest site to the spill and also was the most severely oiled. 
 
 ![gi transect](/assets/BPDHOS/576.JPG){:height="25%" width="25%"}  
@@ -38,7 +38,7 @@ Tarballs absolutely covered the beaches at Bon Secour. There were also some mode
 ![bs transect](/assets/BPDHOS/692.JPG){:height="25%" width="25%"}  
 *The transects at each of the sites were the identically arranged, with wells for DO measurements placed to the east and slightly offset from the wells used to collect water samples.*
 
-![bs tarballs](/assets/BPDHOS/694.JPG){:height="25%" width="25%"} ![bs tarballs 2](/assets/BPDHOS/694.JPG){:height="25%" width="25%"}  
+![bs tarballs](/assets/BPDHOS/694.JPG){:height="25%" width="25%"} ![bs tarballs 2](/assets/BPDHOS/695.JPG){:height="25%" width="25%"}  
 *There were tarballs up the wazoo here. My hand for scale (super scientific!).*
 
 ___  
