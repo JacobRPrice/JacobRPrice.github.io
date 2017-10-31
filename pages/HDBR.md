@@ -17,7 +17,7 @@ The novel architecture/arrangement of the High Density Bioreactor (HDBR) allows 
 * View [Pond scum research is clearing the waters](http://thetriangle.org/news/pond-scum-research-is-clearing-the-waters/) in The Triangle.  
 * View [Researchers turn to algae for waste treatment](http://www.wateronline.com/doc/researchers-turn-algae-wastewater-treatment-0001) in Water Online.  
 
-If you'd like to learn more about the HDBR, please review Price et. al. 2015 and Price et. al. 2016 in my publications page.  
+If you'd like to learn more about the HDBR, please review Price et. al. 2015 and Price et. al. 2016 in my [publications](../2-publications.md) page.  
 
 ___  
 [back to main research page](../1-research.md)  

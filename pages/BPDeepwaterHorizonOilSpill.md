@@ -2,6 +2,9 @@
 layout: page
 title: British Petroleum Deepwater Horizon Oil Spill
 ---
+
+While working under [Michel Boufadel](https://civil.njit.edu/people/boufadel.php), I was given the opportunity to travel to the Gulf Coast to study the impact of the BP Deepwater Horizon Oil Spill. We were lucky enough to be one of the first academic groups to respond to the spill and were contracted to report our findings to the USCG. We collected a variety of samples and data including chemical composition (nutrients, pH, temp, DO, etc) of porewater and ocean water, MPN of total heterotrophs, alkane, and PAH degraders, sediment core collection to name a few. 
+
 Transects were installed at three locations along the Gulf coast:  
 * Fort Pickens, Fl  
 * Bon Secour, Al  

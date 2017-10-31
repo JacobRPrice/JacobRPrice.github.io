@@ -6,7 +6,7 @@ title: St. Louis Special (ESB)
 
 A friend of mine (B.) shared his recipe with me 3 or 4 years ago and, despite my best efforts, I haven't managed to ruin it yet! This is the beer that I keep coming back to; its easy to brew, easy to ferment, and easy to enjoy. I have made some (minor) modifications to the recipe to account for the differences in equipment available to B. (all-grain) and myself (partial mash). Despite these changes, I believe it to be true in spirit. 
 
-I've named this recipe the St Louis Special as a play on the beer style and in honor of B.'s hometown. 
+I've named this recipe the "St. Louis Special" as a play on the beer style and in honor of B.'s hometown. 
 
 ___   
 
