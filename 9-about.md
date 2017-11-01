@@ -7,7 +7,7 @@ title: About & CV
 ### About me
 I'm a PhD candidate studying under [Chris Sales](http://microbes.cae.drexel.edu/) at Drexel University.  
 
-My dissertation topic involves studying how microbial community composition drives nutrient uptake and transformation within photobioreactors. My primary focus is on nitrogen (NH4, NO2, NO3) and it's interaction with organic and inorganic carbon within these systems. To study this, I use a novel bioreactor called a High Density Bioreactor (or HDBR for short). You can read more about the HDBR system on my [Research](./1-Research.md) page. 
+My dissertation topic involves studying how microbial community composition drives nutrient uptake and transformation within photobioreactors. My primary focus is on nitrogen (NH4, NO2, NO3) and it's interaction with organic and inorganic carbon within these systems. To study this, I use a novel bioreactor called a High Density Bioreactor (or HDBR for short). You can read more about the HDBR system on my [research](1-research.md) page. 
 
 My background is fairly unusual for my current position. I received a B.S. in Mathematics (with Statistics Minor) from The Pennsylvania State University and worked as an actuary before deciding I wanted to do something more rewarding. I enrolled in the Environmental Engineering graduate program at Temple University, where I received my M.Eng. and a certificate in Stormwater Management. While studying at Temple, I worked under [Michel Boufadel](https://civil.njit.edu/people/boufadel.php) (now at NJIT) and [Rob Ryan](https://engineering.temple.edu/person/ryan-robert-j). 
 
@@ -15,7 +15,7 @@ The research I performed at Temple exposed me to a variety of principles from bi
 
 I have come to firmly believe that unraveling the biological processes within microbial systems and including information about ecological concepts such as competition, syntropy, and antagonistic interactions is vital for not only understanding how these reactors work, but may ultimately guide us in the design and operation of engineered systems. I joined the [Sales lab group](http://microbes.cae.drexel.edu/) to expand my research beyond the chemical/kinetic into the molecular biology and ecology fields. 
 
-I invite you to review my [Research page](./1-Research.md) for descriptions of current and past projects I've been involved in. 
+I invite you to review my [research page](1-research.md) for descriptions of current and past projects I've been involved in. 
 
 ### Curriculum Vitae
 [Download my CV here.]({{ site.url }}/assets/about/2017-09-23_Jacob_R_Price_CV_website.pdf)
