@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Published, Price et. al. 2017 in Science of the Total Environment
+title: Paper Published: Price et. al. 2017 in Science of the Total Environment
 ---
 
 I'm very pleased to announce that our manuscript titled "Wastewater treatment plant effluent introduces recoverable shifts in microbial community composition in receiving streams" has been accepted for publication in Science of the Total Environment. This study is cross-disciplinary effort composed of individuals from Drexel University and Temple University. I would like to recognize and thank all of the coauthors.  
@@ -10,10 +10,10 @@ I'm very pleased to announce that our manuscript titled "Wastewater treatment pl
 * [Laura Toran](https://sites.temple.edu/geotoran/)  
 * [Chris Sales](http://microbes.cae.drexel.edu/)
 
-PDFs (manuscript and supplemental material) and journal links can be found on the [Publications](https://jacobrprice.github.io/2-publications.html) page or through the [journal](http://www.sciencedirect.com/science/article/pii/S0048969717325111). In my [GitHub repository](https://github.com/JacobRPrice/WWTP_Impact_on_Stream) I have posted all of the raw data and scripts needed to replicate our data processing, statistical analysis, and figure generation for this manuscript.  
+PDFs ([manuscript]({{ site.url }}/assets/publications/Price2017_Manu.pdf) and [supplemental material]({{ site.url }}/assets/publications/Price2017_Supp.pdf)) and journal links can be found on my [Publications](https://jacobrprice.github.io/2-publications.html) page or through the [journal](http://www.sciencedirect.com/science/article/pii/S0048969717325111). In my [GitHub repository](https://github.com/JacobRPrice/WWTP_Impact_on_Stream) I have posted all of the raw data and scripts needed to replicate our data processing, statistical analysis, and figure generation for this manuscript.  
 
-**Wastewater treatment plant effluent introduces recoverable shifts in microbial community composition in receiving streams**   
-Jacob R. Price, Sarah H. Ledford, Michael O. Ryan, Laura Toran, Christopher M. Sales. 2017. Sci. Total Environ. doi:10.1016/j.scitotenv.2017.09.162   
+[Wastewater treatment plant effluent introduces recoverable shifts in microbial community composition in receiving streams](http://www.sciencedirect.com/science/article/pii/S0048969717325111)    
+**Jacob R. Price**, Sarah H. Ledford, Michael O. Ryan, Laura Toran, Christopher M. Sales. 2017. Sci. Total Environ. doi:10.1016/j.scitotenv.2017.09.162   
 
 ![graphicalabstract]({{ site.url }}/assets/publications/GraphicalAbstract.png){:height="200%" width="200%"}
 
