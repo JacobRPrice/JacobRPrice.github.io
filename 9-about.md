@@ -7,7 +7,7 @@ title: About & CV
 ### About me
 I'm a PhD candidate studying under [Chris Sales](http://microbes.cae.drexel.edu/) at Drexel University.  
 
-My dissertation topic involves studying how microbial community composition drives nutrient uptake and transformation within photobioreactors. My primary focus is on nitrogen (NH4, NO2, NO3) and it's interaction with organic and inorganic carbon within these systems. To study this, I use a novel bioreactor called a High Density Bioreactor (or HDBR for short). You can read more about the HDBR system on my [research](1-research.md) page. 
+My dissertation topic involves studying how microbial community composition drives nutrient uptake and transformation within photobioreactors. My primary focus is on inorganic nitrogen (NH4+, NO2-, NO3-) and it's interaction with organic and inorganic carbon within these systems. To study this, I use a novel bioreactor called a High Density Bioreactor (or HDBR for short). You can read more about the HDBR system on my [research](1-research.md) page. 
 
 My background is fairly unusual for my current position. I received a B.S. in Mathematics (with Statistics Minor) from The Pennsylvania State University and worked as an actuary before deciding I wanted to do something more rewarding. I enrolled in the Environmental Engineering graduate program at Temple University, where I received my M.Eng. and a certificate in Stormwater Management. While studying at Temple, I worked under [Michel Boufadel](https://civil.njit.edu/people/boufadel.php) (now at NJIT) and [Rob Ryan](https://engineering.temple.edu/person/ryan-robert-j). 
 
@@ -23,9 +23,12 @@ I invite you to review my [research page](1-research.md) for descriptions of cur
 ### e-mail
 Jacob.R.Price@drexel.edu
 
-## on the web:
-[ORCID](http://orcid.org/0000-0002-1922-8107)   
+### on the web:
 [GitHub](https://github.com/JacobRPrice)  
 [Twitter](https://twitter.com/Jake_in_the_Lab)   
 [Research Gate](https://www.researchgate.net/profile/Jacob_Price)   
 [Linked In](http://www.linkedin.com/in/jacob-price-3057a014)   
+[ORCID](http://orcid.org/0000-0002-1922-8107)   
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57033411100)  
+[ResearcherID](http://www.researcherid.com/rid/G-6882-2016)  
+[Google Scholar](https://scholar.google.com/citations?user=CF1uP5QAAAAJ&hl=en)  
