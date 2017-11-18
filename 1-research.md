@@ -2,7 +2,6 @@
 layout: page
 title: Research
 ---
-**Please excuse the absence of content. This page is under construction.**
 
 ___  
 
