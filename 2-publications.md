@@ -11,14 +11,14 @@ title: Publications
 
 ## Oral Presentations
 1.  **Price, J.R.** and C. M. Sales, Examining nutrient uptake and transformation within photosynthetic microbial communities using a high density bioreactor, 255th American Chemical Society National Meeting, New Orleans, La, **(date not yet determined)**  
-1.	**Price, J.R.**, Ledford, S.H., Ryan, M.O., Toran, L., Sales, C.M., Wastewater treatment plant effluent introduces recoverable shifts in microbial community composition in urban streams, 2017 Fall meeting of the American Geophysical Union, New Orleans, LA, December 12, 2017.  
 1.	**Price, J.R.**, Ledford, S.H., Ryan, M.O., Toran, L., Sales, C.M., The impact of wastewater treatment plant effluent on the composition of microbial communities within receiving streams, Delaware Watershed Research Conference 2017, Philadelphia, PA, November 8, 2017. 
 2.	Sales, C.M., **Price, J.R.**, Langroodi, S.K., Tools from molecular ecology provide an augmentative approach to understanding engineered and natural systems, Philadelphia Symposium on Cross-Disciplinary Analytical Approaches, Philadelphia, Pennsylvania, June 10, 2017.  
 3.	Ledford, S. H., **Price, J.R.**, Ryan, M., Perez, L. B., Sales, C. M., Toran, L., Using multi-parameter biogeological approach to track the impact of treated sewage discharge on urban streams, 2016 Annual Meeting of the Geological Society of America, Denver, Colorado, September 28, 2016.   
 4.	**Price, J.R.** and C. M. Sales, Microalgae: Harnessing Diverse Metabolisms for Environmental Remediation and Waste Stream Treatment, 2015 Annual Meeting of the Phycological Society of America, Drexel University, Philadelphia, PA, August 10, 2015.   
 
 ## Poster Presentations
-1.	**Price, J.R.** and C.M. Sales, Linking ecological aspects to photobioreactor operation and performance, 2017 Annual Meeting of The American Society for Microbiology, New Orleans, Louisiana, USA. June 2, 2017. 
+1.	**Price, J.R.**, Ledford, S.H., Ryan, M.O., Toran, L., Sales, C.M., Wastewater treatment plant effluent introduces recoverable shifts in microbial community composition in urban streams, 2017 Fall meeting of the American Geophysical Union, New Orleans, LA, December 12, 2017.  
+1.	**Price, J.R.** and C.M. Sales, Linking ecological aspects to photobioreactor operation and performance, 2017 Annual Meeting of The American Society for Microbiology, New Orleans, Louisiana, USA. June 2, 2017.  
 2.	**Price, J.R.** and C.M. Sales, Resolving the relationships between photobioreactor influent, microbial diversity and abundance, and reactor performance within a high density bioreactor, 2016 Meeting of The International Society for Microbial Ecology, Montreal, Canada. August 25, 2016.
 3.	Navin, D.V., **Price, J.R.**, and C.M. Sales, The influence of fluid shear on settling of algal biomass within a high density bioreactor. Hess Undergraduate Scholars Research. Drexel University, Philadelphia, PA, March 7, 2016.
 4.	**Price, J. R.**, Shieh, W. K., and C. M. Sales, A Novel Photobioreactor for Studying Nitrogen Utilization and Transformation by a Mixed Community of Algae and Bacteria Grown at High Cell Densities, Annual Meeting of the Association of Environmental Engineering & Science Professors, Yale University, New Haven, CT, June 16, 2015. 
