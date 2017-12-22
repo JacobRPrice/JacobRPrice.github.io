@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Introducing theseus, an R package for microbial ecology 
+author: Jake Price
+image: /assets/misc/p.qc.png
 ---
 
-Steven Woloszynek and I have started to develop an R package, theseus, to help microbiologists and ecologists analyze amplicon sequencing data. There are many packages available that focus on numerical ecology, two of the most prolific being [vegan](https://cran.r-project.org/web/packages/vegan/index.html) and [phyloseq](https://bioconductor.org/packages/release/bioc/html/phyloseq.html). Each package (not just those previously mentioned) has it's own focuses, and correspondingly, positives and negatives.  
+Stephen Woloszynek and I have started to develop an R package, theseus, to help microbiologists and ecologists analyze amplicon sequencing data. There are many packages available that focus on numerical ecology, two of the most prolific being [vegan](https://cran.r-project.org/web/packages/vegan/index.html) and [phyloseq](https://bioconductor.org/packages/release/bioc/html/phyloseq.html). Each package (not just those previously mentioned) has it's own focuses, and correspondingly, positives and negatives.  
 
 My intention for theseus is to:   
 
