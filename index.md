@@ -16,4 +16,6 @@ My name is Jake Price and somehow you found your way onto my humble homepage. Fe
 * [ResearcherID](http://www.researcherid.com/rid/G-6882-2016)  
 * [Google Scholar](https://scholar.google.com/citations?user=CF1uP5QAAAAJ&hl=en)  
 
-### Or contact me using my email in the footer below. 
+### Or contact me using my email in the footer below.    
+
+___   
