@@ -14,7 +14,7 @@ The novel architecture/arrangement of the High Density Bioreactor (HDBR) allows 
 If you'd like to learn more about the HDBR, please review Price et. al. 2015 and Price et. al. 2016 in my [publications](../2-publications.md) page.  
 ___   
 
-*News and press-related items:*  
+**News and press-related items:**  
 
 * Read and listen to [Algae could be an unlikely helper for cleaning wastewater](http://www.newsworks.org/index.php/thepulse/item/91073-drexel-wastewater-pump), a segment on the radio program The Pulse.  
 * View [Cleaning Wastewater with Pond Scum](http://drexel.edu/now/archive/2016/January/algae-bioreactor/) in the Science and Technology Section of Drexel Now.  
