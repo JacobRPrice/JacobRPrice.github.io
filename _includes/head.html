@@ -29,4 +29,11 @@
 {% endif %}
 <!-- end of Twitter cards -->
 
+<!-- begin google analytics -->
+<!-- the below may not be necissary, as analytics is included in the top portion of the header section. Unsure because I haven't created "google-analytics.html" -->
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+<!-- end google analytics -->
+
 </head>

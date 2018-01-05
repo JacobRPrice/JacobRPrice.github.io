@@ -29,6 +29,10 @@ markdown: kramdown
 theme: minima
 highlighter: rouge
 
+# Google Analytics
+# https://desiredpersona.com/google-analytics-jekyll/
+google_analytics: UA-112042029-1
+
 # More fields are available. refer to:
 # https://github.com/jekyll/minima/blob/master/_config.yml
 # https://github.com/barryclark/jekyll-now/blob/master/_config.yml
