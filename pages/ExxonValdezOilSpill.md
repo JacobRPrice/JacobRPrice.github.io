@@ -3,6 +3,8 @@ layout: page
 title: Exxon Valdez Oil Spill
 ---
 
+The largest project I contributed to while working under [Michel Boufadel](https://civil.njit.edu/people/boufadel.php) was the investigation into recalcitrant oil left over from the Exxon Valdez Oil Spill. This multi-year project had multiple stages which focused on identifying subsurface flow regimes within the beaches, mapping the particle size and distribution within the beaches and where oiling was still extant, as well as testing the viabilty of subsurface nutrient injections to encourage native bacterial populations to consume and remediate the remaining oil.   
+
 Study sites included:  
 * Eleanor Island  
 * Latouche Island  

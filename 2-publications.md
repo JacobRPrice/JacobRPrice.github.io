@@ -31,7 +31,7 @@ title: Publications
 1.	**Price, J.R.**, Thompson, T.J., Parish, J. 2015. Automated Parsing of a LabSolutions Batch Results File (ASCII Output) When Using a Spreadsheet or Statistical Package to Summarize Data. Technical Note. Shimadzu Scientific Instruments. doi: 10.13140/RG.2.1.2746.3447. [GitHub Repository](https://github.com/saleslab/ParsingLabSolutionsASCIIOutput)
 
 ## Theses
-1.	**Price, J.R.** 2017. Linking complex kinetics and molecular ecology dynamics within a photosynthetic mixed community. Drexel University, Philadelphia, PA. Advisor: Christopher M. Sales. **(In Progress)**
+1.	**Price, J.R.** 2018. Linking complex kinetics and molecular ecology dynamics within a photosynthetic mixed community. Drexel University, Philadelphia, PA. Advisor: Christopher M. Sales. **(In Progress)**
 2.	**Price, J.R.** 2013. The effects of urbanization on stream channel morphology in southeastern Pennsylvania. Temple University, Philadelphia, PA. Advisor: Robert J. Ryan.
 
 
