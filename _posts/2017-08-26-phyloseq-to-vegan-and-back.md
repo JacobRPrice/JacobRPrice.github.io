@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Moving phyloseq data to vegan and back again
+title: Moving phyloseq data to vegan and back again 
+author: Jake Price
 ---
 
 ## Prelude

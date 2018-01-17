@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Paper Published, Price et. al. 2017 in Science of the Total Environment
+title: Paper Published, Price et. al. 2017 in Science of the Total Environment 
+author: Jake Price
 ---
 
 I'm very pleased to announce that our manuscript titled "Wastewater treatment plant effluent introduces recoverable shifts in microbial community composition in receiving streams" has been accepted for publication in Science of the Total Environment. This study is cross-disciplinary effort composed of individuals from Drexel University and Temple University. I would like to recognize and thank all of the coauthors.  

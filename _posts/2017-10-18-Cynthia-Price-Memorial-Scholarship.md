@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Recipient selected for the Cynthia E Price Memorial Scholarship
+title: Recipient selected for the Cynthia E Price Memorial Scholarship 
+author: Jake Price
 ---
 
 One year ago, my family experienced the unexpected loss of my mother Cynthia Price. We decided to memorialize her by establishing a scholarship in her name at the [Pennsylvania College of Art & Design](http://pcad.edu/) (PCA&D), located in Lancaster, PA.   
