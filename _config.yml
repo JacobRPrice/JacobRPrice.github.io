@@ -10,7 +10,7 @@ description: #> # this means to ignore newlines until "baseurl:"
 
 url: "https://jacobrprice.github.io/"
 
-title_image: "https://jacobrprice.github.io/assets/supportfiles/IMG_7155_stripped_resized.png"
+title_image: "https://jacobrprice.github.io/assets/supportfiles/img_7155_stripped_resized.png"
 
 # designate pages (in order) to show in header
 header_pages:
