@@ -30,7 +30,7 @@ ___
 
 
 #### Stephen Woloszynek     
-* [Lab Website](httvp://drexeleesi.com/)
+* [Lab Website](http://drexeleesi.com/)
 * [GitHub](https://github.com/sw1)
 * [Program Website](http://drexel.edu/medicine/academics/dual-degree-programs/md-phd/students-alumni/)
 * [Google Scholar](https://scholar.google.com/citations?user=-Lb6e_YAAAAJ&hl=en)
