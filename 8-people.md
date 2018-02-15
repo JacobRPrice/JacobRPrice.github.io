@@ -4,7 +4,8 @@ title: Associates & Partners
 ---
 
 **I'm a pretty lucky guy:**   
-I have been able to work on subject matter I find interesting, and along the way I've had the benefit of working with/under a number of awesome individuals. 
+I have been able to work on subject matter I find interesting, and along the way I've had the benefit of working with/under a number of awesome individuals.   
+
 ___   
 
 
