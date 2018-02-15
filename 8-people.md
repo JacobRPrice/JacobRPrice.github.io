@@ -9,20 +9,6 @@ ___
 
 
 #### Christopher M. Sales - Ph.D. Advisor   
-| Source          | Link |
-|-----------------|------|
-| Faculty Webpage | [Link](http://microbes.cae.drexel.edu/people/dr-saleshttp://microbes.cae.drexel.edu/people/dr-sales)     |
-| Lab Webpage     | [Link](http://microbes.cae.drexel.edu/)      |
-| GitHub          |      |
-| Twitter         | [@SalesLaboratory on twitter](https://twitter.com/SalesLaboratory)     |
-| ResearchGate    |      |
-| LinkedIn        |      |
-| ORCID           |      |
-| Mendeley        |      |
-| Scopus          |      |
-| ResearcherID    |      |
-| Google Scholar  |      |
-
 * [Faculty Website](http://drexel.edu/cae/contact/faculty/SalesChristopher/)
 * [Lab Website](http://microbes.cae.drexel.edu/)
 * [GitHub](https://github.com/cmsales)
