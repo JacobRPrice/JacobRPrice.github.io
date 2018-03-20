@@ -23,7 +23,7 @@ header_pages:
  - 9-about.md
 
 plugins:
-  # - jekyll-seo-tag
+  - jekyll-seo-tag
 
 # build settings
 markdown: kramdown
