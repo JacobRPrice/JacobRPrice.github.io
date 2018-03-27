@@ -22,7 +22,8 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
+        <!-- Below section commented out due to changes in github's minima theme. See: https://github.com/jekyll/minima/issues/215 -->
+        <!-- <ul class="social-media-list">
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
@@ -34,7 +35,9 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-        </ul>
+        </ul> -->
+        <!-- I am adding suggested lines from this: https://github.com/autoweirdfm/autoweirdfm.github.io/commit/9311c32162f9b0fc3ab1c333418e5af3794220a3 -->
+        {% include social.html username=site.github_username %}
       </div>
 
       <div class="footer-col footer-col-3">
