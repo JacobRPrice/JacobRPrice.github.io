@@ -5,7 +5,7 @@ author: Jake Price
 image: /assets/misc/BrewImprove/IMG_9459.JPG
 ---
 
-Recently, I was party to a discussion on what the ideal boil volume is for partial mash homebrewers. As with almost any topic, a proportion of opinions seem to break down into two disparate "parties" comprised of hardliners, while the rest of the population fall somewhere in between. While this may seem esoteric, I do think that homebrewers should consider their options before setting on hard and vast volumes especially when they embark on the journey of perfecting (or at the very least improving) a recipe. I thought I'd weigh in on the issue...
+Recently, I was party to a discussion on what the ideal boil volume is for partial mash homebrewers. As with almost any topic, a proportion of opinions seem to break down into two disparate "parties" comprised of hardliners, while the rest of the population fall somewhere in between. While this may seem esoteric, I do think that homebrewers should consider their options before setting on hard and fast volumes especially when they embark on the journey of perfecting (or at the very least improving) a recipe. I thought I'd weigh in on the issue...
 
 ### Small boil volumes   
 Advocates for small boil volumes, either the smallest possible or significantly smaller than your end batch volume (typically 5 gallons), point to a number of benefits:  
@@ -33,6 +33,6 @@ So much of homebrewing relies on proper aseptic technique. Everything post-boil 
 When culturing microbes, there's a reason that we don't dilute growth media after its been autoclaved, I don't know why homebrewing would be any different. 
 
 ### \*Addendum: on temperature control
-There are valid reasons why both camps claim that easier temperature control is obtained with thier preferred method and, funny enough, it's for the same reason: **thermal mass**. Smaller boil volumes are easier to add heat to to bring temperatures up, while larger boil volumes possess higher thermal mass and lose heat more slowly to the ambient environment. For this point the benefit of one approach over the other really comes down to the space, equipment, and burner/stove used by each individual homebrewer. For this reason I consider it this point a wash. 
+There are valid reasons why both camps claim that easier temperature control is obtained with thier preferred method and, funny enough, it's for the same reason: **thermal mass**. Smaller boil volumes are easier to add heat to to bring temperatures up, while larger boil volumes possess higher thermal mass and lose heat more slowly to the ambient environment. For this point the benefit of one approach over the other really comes down to the space, equipment, and burner/stove used by each individual homebrewer. For this reason I consider this point a wash. 
 
 
