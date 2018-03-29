@@ -8,7 +8,7 @@ Being President's Day, in remembrance of our founding-fathers' [love of spirits]
 
 I took this opportunity to also take some new equipment for a test drive, including a new Fermentap weldless ball valve (w/ spigot) and an immersion cooler. 
 
-![](/assets/misc/BrewImprove/IMG_9459.JPG){:height="25%" width="25%"}   
+![](/assets/misc/BrewImprove/IMG_9459.JPG){:height="50%" width="50%"}   
 *Two new toys: an immersion cooler (left), and weldless ball valve and spigot (right).*   
 
 These two pieces of equipment should serve to improve my brewing process for a couple of different reasons...   
@@ -19,21 +19,21 @@ But I digress...
 
 The mash went well which is not unexpected with the small mass of grains I was working with...   
 
-![](/assets/misc/BrewImprove/IMG_9460.JPG){:height="25%" width="25%"}   
+![](/assets/misc/BrewImprove/IMG_9460.JPG){:height="50%" width="50%"}   
 *Itsy bitsy teenie weenie yellow polka dot ... mash (?)*   
 
 I sparged the grains with 1.0 gallons of water pre-heated to 155 F. Note: Usually, you want your sparge water to be a little hotter than the wort, but on the electric stove I use 168-170 is impossible (without modulating the burner and constantly stirring: its either 155 or jumps right to 180) and I don't want to burn the grains. Because I brew with partial mash recipies, after the grains are sparged, I add either/both liquid malt extract (LME) or dry malt extract (DME) to fill out the original gravity, fermentable profile, and water chemistry of the wort. Depending upon the recipe/style hops can also be added at this step or later on. The wort is then brought to a boil, and then held at boiling for usually an hour, as the flavor profile develops and alpha acids are driven off the hops.   
 
-![](/assets/misc/BrewImprove/IMG_9461.JPG){:height="25%" width="25%"}   
+![](/assets/misc/BrewImprove/IMG_9461.JPG){:height="50%" width="50%"}   
 *Sparging the grains...*   
 
 Using the immersion chiller went really smoothly after the boil was complete. The chiller goes in the kettle at t-15 minutes (relative to end of boil) so it can be sanitized by the boiling water, you can add irish moss at the same time. At the end of the boil you just need to remove the kettle from the heatsource, cover with a lid (to prevent air/dust-borne bacteria from fallling in, and start the water flow through the chiller). 
 
 
-![](/assets/misc/BrewImprove/IMG_9463.JPG){:height="25%" width="25%"}   
+![](/assets/misc/BrewImprove/IMG_9463.JPG){:height="50%" width="50%"}   
 *Chilling out (last pun I swear).*   
 
-![](/assets/misc/BrewImprove/IMG_9465.JPG){:height="25%" width="25%"}   
+![](/assets/misc/BrewImprove/IMG_9465.JPG){:height="50%" width="50%"}   
 *Wort up! I'm sorry I can't help myself.*   
 
 The immersion chiller was able to bring the boiling wort from ~212 F to 70 F in roughly 15-20 minutes (next time I'll actually keep track). This is **much** faster than my usual method of an ice bath, which typically takes around 1.25-2 hrs depending upon the ambient temperature in the room and how much ice and water I'm willing to use. 
