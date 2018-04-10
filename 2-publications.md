@@ -28,6 +28,7 @@ title: Publications
 8.	**Price, J.R.**, Smith, T., and M. C. Boufadel, The kidney roles of the Delaware River shorelines: Experimental Design, Temple University College of Engineering Research Day and Poster Competition, Philadelphia, PA, February 25, 2011.
 
 ## Gray Literature
+1.	**Price, J.R.**, Woloszynek, S., Rosen, G.L., and C.M. Sales. 2017. theseus - An R package for the analysis and visualization of microbial community data. *biorxiv*. doi: 10.1101/295675. [pdf link]({{ site.url }}/assets/publications/Price_2018_theseus_295675.full.pdf)
 1.	**Price, J.R.**, Thompson, T.J., Parish, J. 2015. Automated Parsing of a LabSolutions Batch Results File (ASCII Output) When Using a Spreadsheet or Statistical Package to Summarize Data. Technical Note. Shimadzu Scientific Instruments. doi: 10.13140/RG.2.1.2746.3447. [GitHub Repository](https://github.com/saleslab/ParsingLabSolutionsASCIIOutput)
 
 ## Theses
