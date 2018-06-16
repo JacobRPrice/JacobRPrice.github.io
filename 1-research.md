@@ -7,7 +7,7 @@ title: Research
 ### [High Density Bioreactor (HDBR)](/pages/HDBR.md)  
 
 The novel architecture/arrangement of the High Density Bioreactor (HDBR) allows researchers to grow very high density microbical cultures. Thus far the HDBR system has been used to successfully grow and study a wide variety of mixed community cultures:  
-* Alage and cyanobacteria  
+* Algae and cyanobacteria  
 * Simultaneous nitrification and denitrification  
 * Heterotrophic bacteria within activated sludge  
 * Fermentation with yeast  
@@ -24,6 +24,8 @@ Learn more about this project [here](/pages/Algae.md).
 ___
 
 ### [Ecology within freshwater streams](/pages/StreamEcology.md)  
+
+It would be difficult to overstate the number of ways that human activity impacts freshwater bodies. For example, urbanization is almost synonomous with increases in impervious surface cover, resulting in increased runoff decreases in watershed response time. Even seeminly benign activities, such as landscaping or farming can greatly increase nutrient fluxes into and through streams, rivers, and lakes resulting in eutrophication and the degradation of water quality downstream. 
 
 Learn more about this project [here](/pages/StreamEcology.md).  
 

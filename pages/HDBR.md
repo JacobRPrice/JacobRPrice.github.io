@@ -3,7 +3,7 @@ layout: page
 title: High Density Bioreactor (HDBR)
 ---
 The novel architecture/arrangement of the High Density Bioreactor (HDBR) allows researchers to grow very high density microbical cultures. Thus far the HDBR system has been used to successfully grow and study a wide variety of mixed community cultures:  
-* Alage and cyanobacteria  
+* Algae and cyanobacteria  
 * Simultaneous nitrification and denitrification  
 * Heterotrophic bacteria within activated sludge  
 * Fermentation with yeast  
