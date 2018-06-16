@@ -6,7 +6,7 @@ title: Research
 ___  
 
 ### Current Projects  
-####[High Density Bioreactor (HDBR)](/pages/HDBR.md)  
+#### [High Density Bioreactor (HDBR)](/pages/HDBR.md)  
 
 The novel architecture/arrangement of the High Density Bioreactor (HDBR) allows researchers to grow very high density microbical cultures. Thus far the HDBR system has been used to successfully grow and study a wide variety of mixed community cultures:  
 * Alage and cyanobacteria  
