@@ -4,7 +4,7 @@ title: Enhanced Biological Phosphorous Removal (EBPR)
 ---
 Enhanced biological phosphorous removal (EBPR) is a biotechnology used to remove excess or remaining P from municipal or industrial waste streams. This process takes advantage of a group of organisms called phosphate accumulating organisms (PAO), such as *Candidatus Accumulibacter phosphatis*. These interesting organisms are notable for being capable of accumulating/storing large amounts of phosphate within their cells.   
 
-(Simplfying greatly) EBPR processes typically involve passing waste/mixed liquor through two stages, anaerobic and aerobic, sequentially.  
+(Simplfying greatly,) EBPR processes typically involve passing waste/mixed liquor through two stages, anaerobic and aerobic, sequentially.  
 
 **Anaerobic Cycle**  
 
