@@ -2,7 +2,6 @@
 layout: page
 title: Ecology within freshwater streams
 ---
-**Please excuse the absence of content. This page is under construction.**
 
 It would be difficult to overstate the number of ways that human activity impacts freshwater bodies. For example, urbanization is almost synonomous with increases in impervious surface cover, resulting in increased runoff decreases in watershed response time. Even seeminly benign activities, such as landscaping or farming can greatly increase nutrient fluxes into and through streams, rivers, and lakes resulting in eutrophication and the degradation of water quality downstream. 
 
