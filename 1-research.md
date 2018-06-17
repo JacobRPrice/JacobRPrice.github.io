@@ -16,8 +16,9 @@ Learn more about this project [here](/pages/HDBR.md).
 
 ___
 
-### [Algal-based biotechnologies for waste treatment and nutrient recovery](/pages/Algae.md)   
+### [Algal-based biotechnologies](/pages/Algae.md)   
 
+Algal-based biotechnologies have the potential to provide many beneficial products and services for an increasingly populated and energy demanding planet. Algal biomass can be used as feedstock for biofuel production, supplement livestock feed, sequester carbon dioxide in our atmostphere, and be used to recover nutrients from waste streams. Two of the major challenges this biotechnology faces are difficulties in culturing high density algae biomass, which reduces the energy (read: cost) needed for dewatering prior to downstream processes, and fully understanding the interactions between organisms in natural ecosystems, which may help us to properly design the physical, chemical, and ecological components of built systems to maximize the stability of production and reduce/minimize the number of crashes that occur. My research focuses on addressing these challenges.  
 
 Learn more about this project [here](/pages/Algae.md).   
 
