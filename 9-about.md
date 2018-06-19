@@ -17,8 +17,8 @@ I have come to firmly believe that unraveling the biological processes within mi
 
 I invite you to review my [research page](1-research.md) for descriptions of current and past projects I've been involved in. 
 
-### Curriculum Vitae (last updated 2018/06/17)   
-[Download my CV here.]({{ site.url }}/assets/about/2018-06-17_Jacob_R_Price_CV_website.pdf)
+### Curriculum Vitae (last updated 2018/06/19)   
+[Download my CV here.]({{ site.url }}/assets/about/2018-06-19_JacobRPrice_CV_website.pdf)
 
 ### e-mail
 Jacob.R.Price@drexel.edu
