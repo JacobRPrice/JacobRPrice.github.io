@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chapter Published: Analysis Methods for Shotgun Metagenomics
+title: Chapter Published - Analysis Methods for Shotgun Metagenomics
 author: Jake Price
 ---
 
