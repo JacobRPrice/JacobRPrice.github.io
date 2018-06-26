@@ -9,6 +9,9 @@ title: Publications
 2. **Price,J.R.**, Keshani Langroodi, S., Lan, Y., Becker, J.M., Shieh, W.K., Rosen, G.L., and C.M. Sales. 2016. Untangling the microbial ecosystem and kinetics in a nitrogen removing photosynthetic high density bioreactor. Environ. Sci.: Water Res. Technol. doi: 10.1039/C6EW00078A. [PDF Link]({{ site.url }}/assets/publications/Price2016_Manu.pdf) / [SI Link]({{ site.url }}/assets/publications/Price2016_Supp.pdf) / [Journal Link](http://pubs.rsc.org/en/content/articlepdf/2016/ew/c6ew00078a)
 3. **Price, J.R.**, Shieh, W.K., Sales, C.M. 2015. A novel bioreactor for high density cultivation of diverse microbial communities. J. Vis. Exp. (106), e53443, doi:10.3791/53443. [PDF Link]({{ site.url }}/assets/publications/jove-protocol-53443-a-novel-bioreactor-for-high-density-cultivation-diverse-microbial.pdf) / [Materials Link]({{ site.url }}/assets/publications/jove-materials-53443-a-novel-bioreactor-for-high-density-cultivation-diverse-microbial.pdf) / [Journal Link](http://www.jove.com/video/53443/a-novel-bioreactor-for-high-density-cultivation-diverse-microbial)
 
+## Book Chapters  
+1. Woloszynek, S., Zhao, Z., Ditzler, G., **Price, J.R.**, Reichenberger, E.R., Lan, Y., Chen, J.,Earl, J.,Langroodi, S.K., Ehrlich, G., & G. Rosen (2018) Analysis Methods for Shotgun Metagenomics. In: Alves Barbosa da Silva F., Carels N., Paes Silva Junior F. (eds) Theoretical and Applied Aspects of Systems Biology. Computational Biology, vol 27. Springer, Cham. doi:[10.1007/978-3-319-74974-7_5](https://doi.org/10.1007/978-3-319-74974-7_5) [chapter PDF]({{ site.url }}/assets/publications/Woloszyneketal-2018.pdf) / [book PDF]({{ site.url }}/assets/publications/2018_Book_TheoreticalAndAppliedAspectsOf.pdf) / [Springer website](https://link.springer.com/chapter/10.1007/978-3-319-74974-7_5)   
+
 ## Oral Presentations
 1.  **Price, J.R.** and C. M. Sales, Examining nutrient uptake and transformation within photosynthetic microbial communities using a high density bioreactor, 255th American Chemical Society National Meeting, New Orleans, La, March 21, 2018.      
 1.	**Price, J.R.**, Ledford, S.H., Ryan, M.O., Toran, L., Sales, C.M., The impact of wastewater treatment plant effluent on the composition of microbial communities within receiving streams, Delaware Watershed Research Conference 2017, Philadelphia, PA, November 8, 2017. 
@@ -32,7 +35,7 @@ title: Publications
 1.	**Price, J.R.**, Thompson, T.J., Parish, J. 2015. Automated Parsing of a LabSolutions Batch Results File (ASCII Output) When Using a Spreadsheet or Statistical Package to Summarize Data. Technical Note. Shimadzu Scientific Instruments. doi: 10.13140/RG.2.1.2746.3447. [GitHub Repository](https://github.com/saleslab/ParsingLabSolutionsASCIIOutput)
 
 ## Theses
-1.	**Price, J.R.** 2018. Linking complex kinetics and molecular ecology dynamics within a photosynthetic mixed community. Drexel University, Philadelphia, PA. Advisor: Christopher M. Sales. **(In Progress)**
+1.	**Price, J.R.** 2018. Linking complex kinetics and molecular ecology dynamics within a photosynthetic mixed community. Drexel University, Philadelphia, PA. Advisor: Christopher M. Sales. 
 2.	**Price, J.R.** 2013. The effects of urbanization on stream channel morphology in southeastern Pennsylvania. Temple University, Philadelphia, PA. Advisor: Robert J. Ryan.
 
 
