@@ -12,5 +12,7 @@ I'm interested in how anthropogenic activities impact and change the physical, c
 
 If you'd like to learn more about this project, please review Price et. al. 2018 on my [publications](../2-publications.md) page.  
 
+Our research has been featured in Elisabeth Bik's [Bik's Picks](https://microbiomedigest.com/2017/09/29/september-29-2017/).
+
 ___  
 [back to main research page](../1-research.md)  
