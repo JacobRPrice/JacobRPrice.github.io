@@ -132,6 +132,9 @@ odat
 {% endhighlight %}  
 
 ## Yearly mintage   
+
+![](/assets/misc/mint.pdf)  
+
 Looking at the mintage number per year, we can see that the number in 1964 absolutely dwarfs all of the other years. This is due to the hoarding of silver coins by the American public in response to the upcoming changes in quarter (and dime) composition
 
 {% highlight r linenos %}   
@@ -145,7 +148,7 @@ ggplot() +
            ) 
 {% endhighlight %}  
 
-![](/assets/misc/mint.pdf)
+
 
 ## Observed date frequencies
 When we overlay our observed frequencies on the mintage numbers, there seems to be a nice degree of correspondence. 
