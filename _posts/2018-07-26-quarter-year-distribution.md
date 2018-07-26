@@ -11,7 +11,7 @@ This past week I was able to access a semi-random assortment of pre-1965 Washing
 
 # Data & Scripts  
 
-This link can be used to access the [raw data]({{ site.url }}/assets/misc/QuartData.txt) and the R code I used can be found below.   
+This link can be used to access the [raw data](/assets/misc/QuartData.txt) and the R code I used can be found below.   
 
 Here is the raw data I am working with. "P" designates the Philadelphia mintmark; "D" the Denver mint; "S" the San Francisco mint. No prefix indicates official mintage numbers, while "obs." indicates my observed frequencies in the small (290 quarters) sample I had access to.   
 
@@ -145,7 +145,7 @@ ggplot() +
            ) 
 {% endhighlight %}  
 
-![]({{ site.url }}/assets/misc/mint.pdf)
+![](/assets/misc/mint.pdf)
 
 ## Observed date frequencies
 When we overlay our observed frequencies on the mintage numbers, there seems to be a nice degree of correspondence. 
@@ -169,7 +169,7 @@ ggplot() +
             size=1) 
 {% endhighlight %}  
 
-![]({{ site.url }}/assets/misc/mintobs.pdf)
+![](/assets/misc/mintobs.pdf)
 
 ## Distribution goodness of fit   
 We should ask ourselves "how well does our observed distribution fit our assumed parent distribution", i.e. is the distribution of our observed data fit our expectations that mintage counts govern the availability of quarters available to collectors. We can test this using a Chi-Square goodness of fit test.  
@@ -238,7 +238,7 @@ ggplot() +
   geom_vline(xintercept = 1945, colour="brown") 
 {% endhighlight %}  
 
-![]({{ site.url }}/assets/misc/mintobsww2.pdf)
+![](/assets/misc/mintobsww2.pdf)
 
 These observations suggest that the distribution may be disturbed by a couple factors.  
 * The overall age of the coin; older coins are more likely to become lost or worn and removed from circulation by the mint.   
@@ -285,7 +285,7 @@ plot1 + facet_wrap( ~ variable,ncol=2)
 
 When we look at all of the mints together, there does appear to be a small, marginally significant influence by age on the observed abundance (in relation to what we expected), but with the small total count, it would probably be inappropriate to test the significance for each of the individual mints separately. 
 
-![]({{ site.url }}/assets/misc/yrdif.pdf)
+![](/assets/misc/yrdif.pdf)
 
 # Fin   
 This was a neat experiment, but I was a little disappointed that we couldn't make any large sweeping generalizations. I hope to be able to expand this analysis in the future.  
