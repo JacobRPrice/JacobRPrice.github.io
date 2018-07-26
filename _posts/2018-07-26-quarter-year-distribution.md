@@ -134,7 +134,7 @@ odat
 ## Yearly mintage   
 Looking at the mintage number per year, we can see that the number in 1964 absolutely dwarfs all of the other years. This is due to the hoarding of silver coins by the American public in response to the upcoming changes in quarter (and dime) composition
 
-![](/assets/misc/mint.pdf){:height="100%" width="100%"}      
+![](https://jacobrprice.github.io/assets/misc/mint.pdf){:height="100%" width="100%"}      
 
 {% highlight r linenos %}   
 ggplot() + 
@@ -171,7 +171,7 @@ ggplot() +
             size=1) 
 {% endhighlight %}  
 
-![](/assets/misc/mintobs.pdf){:height="100%" width="100%"}
+![](https://jacobrprice.github.io/assets/misc/mintobs.pdf){:height="100%" width="100%"}
 
 ## Distribution goodness of fit   
 We should ask ourselves "how well does our observed distribution fit our assumed parent distribution", i.e. is the distribution of our observed data fit our expectations that mintage counts govern the availability of quarters available to collectors. We can test this using a Chi-Square goodness of fit test.  
@@ -240,7 +240,7 @@ ggplot() +
   geom_vline(xintercept = 1945, colour="brown") 
 {% endhighlight %}  
 
-![](/assets/misc/mintobsww2.pdf){:height="100%" width="100%"}
+![](https://jacobrprice.github.io/assets/misc/mintobsww2.pdf){:height="100%" width="100%"}
 
 These observations suggest that the distribution may be disturbed by a couple factors.  
 * The overall age of the coin; older coins are more likely to become lost or worn and removed from circulation by the mint.   
@@ -287,7 +287,7 @@ plot1 + facet_wrap( ~ variable,ncol=2)
 
 When we look at all of the mints together, there does appear to be a small, marginally significant influence by age on the observed abundance (in relation to what we expected), but with the small total count, it would probably be inappropriate to test the significance for each of the individual mints separately. 
 
-![](/assets/misc/yrdif.pdf){:height="100%" width="100%"}
+![](https://jacobrprice.github.io/assets/misc/yrdif.pdf){:height="100%" width="100%"}
 
 # Fin   
 This was a neat experiment, but I was a little disappointed that we couldn't make any large sweeping generalizations. I hope to be able to expand this analysis in the future.  
