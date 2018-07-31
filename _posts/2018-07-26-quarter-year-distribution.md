@@ -9,7 +9,7 @@ Washington quarters have been produced almost continuously from 1932 until prese
 
 This past week I was able to access a semi-random assortment of pre-1965 Washington quarters; I thought it would be neat to compare the dates and mints-of-origin with what we'd expect given the mintage numbers provided by the United States Mint and maybe explore some trends within the dataset.   
 
-# Data & Scripts  
+# Data  
 
 This link can be used to access the [raw data](/assets/misc/QuartData.txt) and the R code I used can be found below.   
 
@@ -21,13 +21,13 @@ Here is the raw data I am working with. "P" designates the Philadelphia mintmark
 | 1933 |           |           |          |           |       |       |       |
 | 1934 | 31912052  | 3527200   |          |           | 2     | 0     |       |
 | 1935 | 32484000  | 5780000   | 5660000  |           | 1     | 0     | 0     |
-| 1936 | 41300000  | 5374000   | 3828000  | 3,837     | 3     | 0     | 0     |
-| 1937 | 19696000  | 7189600   | 1652000  | 5,542     | 2     | 0     | 0     |
-| 1938 | 9472000   |           | 2832000  | 8,045     | 1     |       | 0     |
-| 1939 | 33540000  | 7092000   | 2628000  | 8,795     | 2     | 1     | 2     |
-| 1940 | 35704000  | 2797600   | 8244000  | 11,246    | 4     | 0     | 1     |
-| 1941 | 79032000  | 16714800  | 16080000 | 15,287    | 2     | 1     | 1     |
-| 1942 | 102096000 | 17487200  | 19384000 | 21,123    | 10    | 1     | 0     |
+| 1936 | 41300000  | 5374000   | 3828000  | 3837     | 3     | 0     | 0     |
+| 1937 | 19696000  | 7189600   | 1652000  | 5542     | 2     | 0     | 0     |
+| 1938 | 9472000   |           | 2832000  | 8045     | 1     |       | 0     |
+| 1939 | 33540000  | 7092000   | 2628000  | 8795     | 2     | 1     | 2     |
+| 1940 | 35704000  | 2797600   | 8244000  | 11246    | 4     | 0     | 1     |
+| 1941 | 79032000  | 16714800  | 16080000 | 15287    | 2     | 1     | 1     |
+| 1942 | 102096000 | 17487200  | 19384000 | 21123    | 10    | 1     | 0     |
 | 1943 | 99700000  | 16095600  | 21700000 |           | 5     | 0     | 1     |
 | 1944 | 104956000 | 14600800  | 12560000 |           | 6     | 0     | 0     |
 | 1945 | 74372000  | 12341600  | 17004001 |           | 3     | 0     | 0     |
@@ -35,21 +35,21 @@ Here is the raw data I am working with. "P" designates the Philadelphia mintmark
 | 1947 | 22556000  | 15338400  | 5532000  |           | 1     | 4     | 1     |
 | 1948 | 35196000  | 16766800  | 15960000 |           | 2     | 1     | 3     |
 | 1949 | 9312000   | 10068400  |          |           | 0     | 0     |       |
-| 1950 | 24920126  | 21075600  | 10284004 | 51,386    | 1     | 2     | 2     |
-| 1951 | 43448102  | 35354800  | 9048000  | 57,500    | 3     | 4     | 3     |
-| 1952 | 38780093  | 49795200  | 13707800 | 81,980    | 4     | 4     | 0     |
-| 1953 | 18536120  | 56112400  | 14016000 | 128,800   | 3     | 9     | 3     |
-| 1954 | 54412203  | 42305500  | 11834722 | 233,300   | 3     | 3     | 0     |
-| 1955 | 18180181  | 3182400   |          | 378,200   | 3     | 0     |       |
-| 1956 | 44144000  | 32334500  |          | 669,384   | 1     | 3     |       |
-| 1957 | 46532000  | 77924160  |          | 1,247,952 | 3     | 10    |       |
-| 1958 | 6360000   | 78124900  |          | 875,652   | 0     | 5     |       |
-| 1959 | 24384000  | 62054232  |          | 1,149,291 | 0     | 3     |       |
-| 1960 | 29164000  | 63000324  |          | 1,691,602 | 0     | 7     |       |
-| 1961 | 37036000  | 83656928  |          | 3,028,244 | 2     | 11    |       |
-| 1962 | 36156000  | 127554756 |          | 3,218,019 | 5     | 8     |       |
-| 1963 | 74316000  | 135288184 |          | 3,075,645 | 9     | 7     |       |
-| 1964 | 560390585 | 704135528 |          | 3,950,762 | 56    | 50    |       |
+| 1950 | 24920126  | 21075600  | 10284004 | 51386    | 1     | 2     | 2     |
+| 1951 | 43448102  | 35354800  | 9048000  | 57500    | 3     | 4     | 3     |
+| 1952 | 38780093  | 49795200  | 13707800 | 81980    | 4     | 4     | 0     |
+| 1953 | 18536120  | 56112400  | 14016000 | 128800   | 3     | 9     | 3     |
+| 1954 | 54412203  | 42305500  | 11834722 | 233300   | 3     | 3     | 0     |
+| 1955 | 18180181  | 3182400   |          | 378200   | 3     | 0     |       |
+| 1956 | 44144000  | 32334500  |          | 669384   | 1     | 3     |       |
+| 1957 | 46532000  | 77924160  |          | 1247952 | 3     | 10    |       |
+| 1958 | 6360000   | 78124900  |          | 875652   | 0     | 5     |       |
+| 1959 | 24384000  | 62054232  |          | 1149291 | 0     | 3     |       |
+| 1960 | 29164000  | 63000324  |          | 1691602 | 0     | 7     |       |
+| 1961 | 37036000  | 83656928  |          | 3028244 | 2     | 11    |       |
+| 1962 | 36156000  | 127554756 |          | 3218019 | 5     | 8     |       |
+| 1963 | 74316000  | 135288184 |          | 3075645 | 9     | 7     |       |
+| 1964 | 560390585 | 704135528 |          | 3950762 | 56    | 50    |       |
 
 
 # Results & Discussion  
@@ -77,7 +77,7 @@ We'll start by removing the Proof mintage numbers. We'll be ignoring the Proof m
 * they're exceedingly small in magnitude compared to the other categories  
 * and more importantly, because they were Proofs, we don't expect them to be in general circulation when these coins were being issued, and therefore we *really* don't expect them to appear in the junk silver market.   
 
-We follow up by substituting zeros for NA's in the dataset, calculate the total number of quarters produced by the mint (per year and in total) and the observed (yearly and total) sums. We then convert all of the counts to fractions/proportions to make the values easier to compare. Finally we split and "melt" the data to make it ggplot friendly. 
+We follow up by substituting zeros for NA's in the dataset (Don't worry, we won't forget about those NA values when carrying out tests.), calculate the total number of quarters produced by the mint (per year and in total) and the observed (yearly and total) sums. We then convert all of the counts to fractions/proportions to make the values easier to compare. Finally we split and "melt" the data to make it ggplot friendly. 
 
 {% highlight r linenos %}   
 #--------------------
@@ -132,9 +132,7 @@ odat
 {% endhighlight %}  
 
 ## Yearly mintage   
-Looking at the mintage number per year, we can see that the number in 1964 absolutely dwarfs all of the other years. This is due to the hoarding of silver coins by the American public in response to the upcoming changes in quarter (and dime) composition
-
-![](https://jacobrprice.github.io/assets/misc/mint.png){:height="100%" width="100%"}      
+Looking at the mintage number per year, we can see that the number in 1964 absolutely dwarfs all of the other years. This is due to the hoarding of silver coins by the American public in response to the upcoming changes in quarter (and dime) composition.   
 
 {% highlight r linenos %}   
 ggplot() + 
@@ -147,7 +145,7 @@ ggplot() +
            ) 
 {% endhighlight %}  
 
-
+![](https://jacobrprice.github.io/assets/misc/mint.png){:height="100%" width="100%"}
 
 ## Observed date frequencies
 When we overlay our observed frequencies on the mintage numbers, there seems to be a nice degree of correspondence. 
@@ -285,9 +283,11 @@ plot1 + facet_wrap( ~ variable,ncol=2)
 
 {% endhighlight %}  
 
-When we look at all of the mints together, there does appear to be a small, marginally significant influence by age on the observed abundance (in relation to what we expected), but with the small total count, it would probably be inappropriate to test the significance for each of the individual mints separately. 
+When we look at all of the mints together, there does appear to be a small, marginally significant influence by age on the observed abundance (in relation to what we expected), but with the small total count, it would probably be inappropriate to test the significance for each of the individual mints separately. It is interesting to observe that the quarters from the Philadelphia Mint appear to be the most effected by date/age (out of the three) despite producing roughly the same amount of quarters as the Denver Mint. 
 
 ![](https://jacobrprice.github.io/assets/misc/yrdif.png){:height="100%" width="100%"}
 
 # Fin   
-This was a neat experiment, but I was a little disappointed that we couldn't make any large sweeping generalizations. I hope to be able to expand this analysis in the future.  
+This was a neat experiment, but I was a little disappointed that we couldn't make any large sweeping generalizations. I hope to be able to expand this analysis in the future. 
+
+
