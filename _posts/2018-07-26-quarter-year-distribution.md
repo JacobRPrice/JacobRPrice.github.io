@@ -2,6 +2,7 @@
 layout: post
 title: Do the dates and mints on silver quarters properly reflect their mintage? 
 author: Jake Price
+image: /assets/misc/mintobs.png
 ---
 # Preamble  
 
