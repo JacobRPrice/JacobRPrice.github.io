@@ -8,7 +8,7 @@ I am fortunate enough to be a contributor to a workshop titled *Meta-omics in En
 
 I will be posting my slides/presentation in the next day or two, as well as providing links to the resources the team have been putting together. 
 
-[Download the workshop pamphelet here.]({{ site.url }}/assets/misc/AEESP2019_MetaOmics_Workshop.pdf)
+[Download the workshop pamphlet here.]({{ site.url }}/assets/misc/AEESP2019_MetaOmics_Workshop.pdf)
 
 **Abstract**    
 High throughput meta-omics methods are being routinely used to probe microbial community structure and function in environmental engineering research. While this makes the microbial world more accessible, robust and rational data interpretation is not straightforward. Further, the technologies underpinning these methods are also changing at a rapid pace; this can make hypothesis-appropriate methodological choices also very challenging. The objectives of this workshop are (1) to outline best practices for method selection and data interpretation for microbial community structure and function characterization and (2) to identify imminent technological advances that may influence the choice of molecular methods in the near future.
