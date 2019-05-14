@@ -4,7 +4,7 @@ title: 2019 AEESP Workshop - Meta-omics in Environmental Engineering Research. T
 author: Jake Price
 ---
 
-I am fortunate enough to be a contributor to a workshop titled *Meta-omics in Environmental Engineering Research. Theory, Statistics, and Data Interpretation*, taking place on Tuesday May 14th, 2019 at the 2019 AEESP Research and Education Conference. 
+I am fortunate enough to be a contributor to a workshop titled *Meta-omics in Environmental Engineering Research. Theory, Statistics, and Data Interpretation*, taking place on Tuesday May 14th, 2019 at the [2019 AEESP Research and Education Conference](https://aeesp-2019.engineering.asu.edu/). 
 
 I will be posting my slides/presentation in the next day or two, as well as providing links to the resources the team have been putting together. 
 

@@ -4,7 +4,7 @@ title: 2019 AEESP Workshop - Lecture Slides - Statistical considerations for omi
 author: Jake Price
 ---
 
-My contribution to this years AEESP Workshop *Meta-omics in Environmental Engineering Research. Theory, Statistics, and Data Interpretation* is a talk titled **Statistical considerations for 'omic data analysis**.  With such little time, I'm afraid I was only able to scratch the surface, but I hope it was enough to awaken some interest and be of some help! 
+My contribution to this years [AEESP Conference](https://aeesp-2019.engineering.asu.edu/) Workshop *Meta-omics in Environmental Engineering Research. Theory, Statistics, and Data Interpretation* is a talk titled **Statistical considerations for 'omic data analysis**.  With such little time to speak, I'm afraid I was only able to scratch the surface, but I hope it was enough to awaken some interest and be of some help! 
 
 Outline:   
 * data structures   
