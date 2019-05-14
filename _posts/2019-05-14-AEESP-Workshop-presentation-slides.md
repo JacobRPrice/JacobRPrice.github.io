@@ -6,14 +6,14 @@ author: Jake Price
 
 My contribution to this years [AEESP Conference](https://aeesp-2019.engineering.asu.edu/) Workshop *Meta-omics in Environmental Engineering Research. Theory, Statistics, and Data Interpretation* is a talk titled **Statistical considerations for 'omic data analysis**.  With such little time to speak, I'm afraid I was only able to scratch the surface, but I hope it was enough to awaken some interest and be of some help! 
 
+If so inclined, you can download a pdf of my presentation [HERE]({{ site.url }}/assets/misc/Talk 3A_for-release-printing.pdf).
+
 Outline:   
 * data structures   
 * transformations and distances   
 * ordination    
 * clustering   
 * Hypothesis testing: PERMANOVA, ANOSIM, & differential abundance testing
-
-If so inclined, you can download a pdf of my presentation [here.]({{ site.url }}/assets/misc/Talk 3A_for-release-printing.pdf)
 
 I'd like to thank all of my co-organizers for the opportunity to contribute to this project! 
  
