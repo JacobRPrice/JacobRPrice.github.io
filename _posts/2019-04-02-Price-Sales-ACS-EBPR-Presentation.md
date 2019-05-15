@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019 
+title: ACS 2019 Spring Meeting - Predation, Parasitism, and Performance within EBPRs
 author: Jake Price
 ---
 
