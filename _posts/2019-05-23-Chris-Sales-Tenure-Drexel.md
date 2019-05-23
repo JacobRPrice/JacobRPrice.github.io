@@ -9,7 +9,7 @@ There's a big piece of news that hasn’t quite leaked its way out yet...
 
 **[Christopher M. Sales](http://microbes.cae.drexel.edu/people/dr-sales) has been granted tenure and promotion from Assistant Professor to Associate Professor.**    
 
-![](/assets/misc/chris_370T0967_small.jpg){:height="25%" width="25%"}    
+![](/assets/misc/chris_370T0967_small.jpg){:height="35%" width="35%"}    
 *This is the face of a man who doesn't toot his own horn to the point it’s almost annoying.*   
 
 Chris, a professor in the CAEE department at Drexel University, was my PhD advisor and I would experience difficulty overstating his ability as an educator and mentor; I really lucked out. So, you may ask, why isn’t *he* the one making the announcement... well, he’s a soft-spoken guy who doesn’t particularly like to draw attention to himself. Lucky for him then, that I’m here to make sure the word gets out. 
