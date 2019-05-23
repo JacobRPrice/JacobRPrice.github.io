@@ -2,7 +2,6 @@
 layout: post   
 title: Chris Sales of Drexel University Granted Tenure and is Promoted to Associate Professor   
 author: Jake Price   
-image: /assets/misc/chris_370T0967_small.jpg   
 ---
 
 There's a big piece of news that hasn’t quite leaked its way out yet...   
