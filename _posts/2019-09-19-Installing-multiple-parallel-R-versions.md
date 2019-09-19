@@ -1,11 +1,11 @@
 ---
 layout: post   
-title: Installing multiple parallel versions of R on Mac and getting back up and running quickly by streamlining package installation
+title: Installing multiple parallel versions of R on Mac and getting back up and running quickly by simplifying package installation
 author: Jake Price   
 ---
 
 ## caveat emptor    
-I'm not a computer scientist and I did not sleep at a Holiday Inn last night.    
+I'm not a computer scientist nor did I sleep at a Holiday Inn last night.    
 
 Given all of the varieties of mac OS X, and the innumerable ways of installing and maintaining R I can't guarantee that the outline below will work for your precise situation. **Please make sure to backup your computer or use TimeMachine prior to giving this a try!**    
 
@@ -60,7 +60,8 @@ You should see one directory for each of the X.Y versions of R you've installed,
 Alright, that's all well and good, but now we have to figure out how to switch between the different versions. We have some options!   
 * [rswitch](https://mac.r-project.org/) available through the R for Mac OS X Developer's page - A very simple GUI that will work with almost any version of R/OSX. - This is the option I went for.   
 * [RSwitch](https://rud.is/rswitch/guide/index.html) a nicer looking GUI that requires more recent versions of OSX.    
-* You can also use `ln -s` via Terminal to reassign the symlink manually. 
+* You can also use `ln -s` via Terminal to reassign the symlink manually.    
+
 ## Package Installation    
 We have our different versions installed, and we can switch between them, but the "new"/additional versions don't have any packages installed. As we know fresh installs can be super boring as we wait for them to be carried out. To make my life easier, I adapted a portion of a script from [Callahan et. al. (2016)](https://f1000research.com/articles/5-1492/v2) to streamline the process. The concept is to define chr vectors containing the names of your most used packages and then test to see if they are currently installed, if not, install them. The user can select/highlight and source the entire script in RStudio and walk away while the work proceeds. I do want to note that depending upon your R version and the packages you want to install you may have to run the script twice to catch any weird dependency conflicts that might not play nice. If you're clever, you can adapt the script to also auto-update packages as well. You can download the .R script [HERE]({{ site.url }}/assets/misc/UpdatedRVersion-Install_Packages.R), or you can take a gander at the code below...    
 
