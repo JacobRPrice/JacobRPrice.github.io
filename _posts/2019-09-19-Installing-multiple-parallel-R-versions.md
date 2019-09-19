@@ -10,7 +10,7 @@ I'm not a computer scientist nor did I sleep at a Holiday Inn last night.
 Given all of the varieties of mac OS X, and the innumerable ways of installing and maintaining R I can't guarantee that the outline below will work for your precise situation. **Please make sure to backup your computer or use TimeMachine prior to giving this a try!**    
 
 ## Motivation & Setup    
-A large portion of my current responsibilities focus on the development and deployment of a new R package. Through this effort I've encountered a couple of versioning-related challenges including:   
+A large portion of my current responsibilities focus on the development and deployment of a new R package. Through this effort I've encountered a couple of versioning-related challenges including but not limited to:   
 * many of the packages I had been using are out of date (who has time to keep them updated?)   
 * some of the new packages I want to leverage within my own project require a more recent R version  
 * (ideally) a developer should keep in mind that thier users may not have the latest and greatest installation, and may be hesitant to change things on thier local install just to try out a piece of software
