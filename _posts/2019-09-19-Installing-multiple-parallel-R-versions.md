@@ -50,7 +50,7 @@ Once you carry out your `pkgutil` trickery, you can go ahead and download the *.
 ## Parallel versions and their location   
 But wait, where'd the old version go? If you carried out your installation with the default values, take a look in this directory:    
 
->/Library/Frameworks/R.framework/Versions/3.6/Resources/bin/R
+>/Library/Frameworks/R.framework/Versions/
 
 (You can open up a finder window, press `CMD`+`shift`+`g` and search for it directly instead of manually navigating)
 
