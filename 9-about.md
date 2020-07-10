@@ -10,8 +10,8 @@ I'm a post-doctoral researcher at the University of Wisconsin - Madison, working
 
 I invite you to review my [research page](1-research.md) for descriptions of current and past projects I've been involved in. 
 
-### Curriculum Vitae (last updated 2018/07/06)   
-[Download my CV here.]({{ site.url }}/assets/about/2018-07-06_JacobRPrice_CV_website.pdf)
+### Curriculum Vitae (last updated 2020/07/10)   
+[Download my CV here.]({{ site.url }}/assets/about/JacobRPrice_CV_2020_07_10_REDACTED.pdf)
 
 ### e-mail
 JacobRPricePhD@gmail.com
