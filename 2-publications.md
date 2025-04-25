@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+**Updates Incoming**
+
 ## Peer-reviewed Publications
 1. **Price, J.R.**, Ledford, S.H., Ryan, M.O., Toran, L., and C.M. Sales. 2018. Wastewater treatment plant effluent introduces recoverable shifts in microbial community composition in receiving streams. Sci. Total Environ. doi:10.1016/j.scitotenv.2017.09.162. [PDF Link]({{ site.url }}/assets/publications/Price2017_Manu.pdf) / [SI Link]({{ site.url }}/assets/publications/Price2017_Supp.pdf) / [GitHub Repository](https://github.com/JacobRPrice/WWTP_Impact_on_Stream) / [Journal Link](http://www.sciencedirect.com/science/article/pii/S0048969717325111)    
 1. Sniffen, K.D., **Price, J.R.**, Sales, C.M., and M.S. Olson. 2017. Influence of scale on biomass growth and nutrient removal in an algal-bacterial leachate treatment system. Environ. Sci. Technol. doi:10.1021/acs.est.7b03975. [PDF Link]({{ site.url }}/assets/publications/acs.est.7b03975.pdf) / [SI Link]({{ site.url }}/assets/publications/es7b03975_si_001.pdf) / [Journal Link](http://pubs.acs.org/doi/abs/10.1021/acs.est.7b03975)     

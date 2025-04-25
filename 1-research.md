@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+**Updates Incoming**
+
 ## Current Projects  
 ### [High Density Bioreactor (HDBR)](/pages/HDBR.md)  
 
@@ -42,7 +44,7 @@ ___
 
 ### [R packages](/4-R.md)   
 
-Much of my work is done within the R programming language. Its open-source nature and abundance of packages and users makes it a powerful resource for a wide variety of fields and disciplines.  
+Much of my analysis is performed within the R programming language. Its open-source nature and abundance of packages and users makes it a powerful resource for a wide variety of fields and disciplines.  
 
 
 Learn more about this project [here](/4-R.md).  
