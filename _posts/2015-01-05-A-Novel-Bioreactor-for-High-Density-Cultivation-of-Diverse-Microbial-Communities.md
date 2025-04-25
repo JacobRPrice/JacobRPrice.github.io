@@ -5,8 +5,6 @@ author: Jake Price
 image: /assets/HDBR/HDBR_Schematic.png
 ---
 
-**[Backdated Post]**
-
 We have published a paper in The Journal of Visualized Experiments (JoVE) describing a novel reactor design called a high density bioreactor (HDBR) and it's use for the cultivation of highly dense algal-bacterial communities. JoVE's unique format combines traditional primary research manuscripts with video presentations to enhance the dissemination and adoption of new methods and technologies.
 
 <iframe src="https://www.jove.com/embed/player?id=53443&amp;access=9urnefem&amp;t=1&amp;s=1" width="460" height="415" frameborder="0" marginwidth="0" scrolling="no" allowfullscreen="allowfullscreen"><a title="A Novel Bioreactor for High Density Cultivation of Diverse Microbial Communities" href="http://www.jove.com/video/53443/a-novel-bioreactor-for-high-density-cultivation-diverse-microbial">A Novel Bioreactor for High Density Cultivation of Diverse Microbial Communities</a>&nbsp;
