@@ -15,11 +15,12 @@ title_image: "https://jacobrprice.github.io/assets/supportfiles/img_7155_strippe
 
 # designate pages (in order) to show in header
 header_pages:
+ # - 0-JPriceAnalyticsLLC.md
  - 1-research.md
  - 2-publications.md
  - 3-teaching.md
  - 4-R.md
- - 5-brewing.md
+ # - 5-brewing.md
  # - 8-people.md
  - 9-about.md
 
