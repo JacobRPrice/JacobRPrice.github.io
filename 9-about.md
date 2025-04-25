@@ -2,11 +2,11 @@
 layout: page
 title: About & CV
 ---
-![](/assets/about/NOLA_ACS_cropped.jpeg){:height="50%" width="50%"}    
+![](/assets/about/IMG_6071_cropped.jpg){:height="50%" width="50%"}    
 
 ### About me
 
-I'm a post-doctoral researcher at the University of Wisconsin - Madison, working under the guidance of [Thea Whitman](https://whitmanlab.soils.wisc.edu/) and [Amy Willis](http://statisticaldiversitylab.com/). My background is in understanding the composition and structure of the microbial communities found within bioreactors. My current project involves bioinformatics and uncertainty propagation in upstream processing of microbiome data. 
+
 
 I invite you to review my [research page](1-research.md) for descriptions of current and past projects I've been involved in. 
 
