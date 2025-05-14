@@ -1,6 +1,6 @@
 ---
 layout: post   
-title: Fiscal Literacy as a trainee or early-career scientist: The conversation that academics refuse to have with their trainees.  
+title: Fiscal Literacy as a trainee or early-career scientist  
 author: Jake Price   
 ---
 
