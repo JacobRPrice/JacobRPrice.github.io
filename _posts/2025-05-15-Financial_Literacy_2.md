@@ -1,6 +1,6 @@
 ---
 layout: post   
-title:  Fiscal Literacy: a Follow-Up
+title:  Fiscal Literacy - a Follow-Up
 author: Jake Price   
 ---
 
