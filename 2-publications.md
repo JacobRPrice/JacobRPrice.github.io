@@ -6,8 +6,11 @@ title: Publications
 **Updates Incoming**
 
 ## Peer-reviewed Publications
+
+1. **Price, J. R.**, Oviedo-Vargas, D., Peipoch, M., Daniels, M., & J. Kan. “Reduction in nitrification during the early transition from conventional to organic farming practices.” Ecosphere .doi.org/10.1002/ecs2.70375 (2025). 
+
+[PDF Link]({{ site.url }}/assets/publications/Price-Reduction in nitrification during the early transition from conventional to organic farming practices-2025-Ecosphere.pdf) / [Supplemental PDF Link]({{ site.url }}/assets/publications/ecs270375-sup-0001-appendixs1.pdf) / [Journal Link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.70375)  
 1. Myers, D., Zgleszewski, L., Bier, R., **Price, J. R.**, Morgan, S., Jackson, J., Oviedo-Vargas, D., Daniels, M., Arscott, D., & J. Kan. High fecal indicator bacteria in temperate headwater streams at baseflow: implications for management and public health. Water Res X doi: doi.org/10.1016/j.wroa.2025.100347 (2025). [PDF Link]({{ site.url }}/assets/publications/Myers_et.al._2025.pdf) / [Journal Link](https://www.sciencedirect.com/science/article/pii/S2589914725000465)  
-1. **Price, J. R.**, Oviedo-Vargas, D., Peipoch, M., Daniels, M., & J. Kan. “Reduction in nitrification during the early transition from conventional to organic farming practices.” **(2023, IN REVIEW)**.  
 1. He, J., Owusu-Asumeng, E., Zidar, K., Stolper, J., Attri, S., **Price, J. R.**, Partridge, D., Montalto, F., & C. M. Sales. “Impacts of a herring gull colony on runoff water quality from an urban green roof.” Sci Total Environ. doi: 10.1016/j.scitotenv.2024.174430 (2024).  
 1. Bier, R.L., Daniels, M., Oviedo-Vargas, D., Peipoch, M., **Price, J. R.**, Omondi, O., Smith, A., & J. Kan. “Agricultural soil microbiomes differentiate in soil profiles with fertility source, tillage, and cover crops.” Agriculture, Ecosystems & Environment. doi:10.1016/j.agee.2024.109002 (2024).  
 1. Minerovic, A., Potapova, M. G., Sales, C. M., **Price, J. R.**, & Enache, M. D. 18S-V9 DNA metabarcoding detects the effect of water-quality impairment on stream biofilm eukaryotic assemblages. Ecol Indic. doi:10.1016/j.ecolind.2020.106225 (2020).  
