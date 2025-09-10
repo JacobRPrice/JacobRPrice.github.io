@@ -18,8 +18,8 @@ I received my PhD in Environmental Engineering from Drexel University while stud
 
 I invite you to review my [research page](1-research.md) for descriptions of current and past projects I've been involved in. 
 
-### Curriculum Vitae (last updated 2025/04/17)   
-[Download my CV here.]({{ site.url }}/assets/about/JacobRPrice_CV_2025_04_17.pdf)
+### Curriculum Vitae (last updated 2025/08/27)   
+[Download my CV here.]({{ site.url }}/assets/about/JacobRPrice_CV_2025_08_27.pdf)
 
 ### e-mail
 JacobRPricePhD@gmail.com
